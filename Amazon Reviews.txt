@@ -1,0 +1,108 @@
+product_id: apple
+review_text: This product is excellent and works perfectly.
+order_date: 2025-01-15
+
+product_id: Samsung
+review_text: Not great, had issues with battery life.
+order_date: 2024-03-22
+
+product_id: apple
+review_text: Amazing quality and fast delivery.
+order_date: 2023-04-10
+
+product_id: apple
+review_text: Good value for money.
+order_date: 2025-02-05
+
+product_id: apple
+review_text: Terrible packaging, but the product is fine.
+order_date: 2025-02-06
+
+product_id: apple
+review_text: Worst experience ever.
+order_date: 2025-05-01
+
+product_id: apple
+review_text: Great performance and sleek design.
+order_date: 2025-05-02
+
+product_id: apple
+review_text: Decent product.
+order_date: 2024-12-31
+
+product_id: apple
+review_text: Loved it!
+order_date: 2025-01-01
+
+product_id: apple
+review_text: I’ve been using this product for over a month now, and I must say it has exceeded my expectations. The build quality is superb, and the customer service was responsive and helpful.
+order_date: 2025-06-10
+
+product_id: apple
+review_text: Bad.
+order_date: 2025-07-01
+
+product_id: apple
+review_text: यह उत्पाद बहुत अच्छा है।
+order_date: 2025-08-01
+
+product_id: apple
+review_text: Loved it!!! 😍🔥
+order_date: 2025-09-01
+
+product_id: apple
+review_text: GOOD product.
+order_date: 2025-10-01
+
+product_id: apple
+review_text: Decent product.
+
+product_id: apple
+review_text: Great product.
+order_date: 2025/01/01
+
+product_id: apple
+review_text: Excellent product.
+order_date: 2025-01-01
+
+product_id: apple
+review_text: Excellent product.
+order_date: 2025-01-01
+
+product_id: apple
+review_text:  $@#%&* broken text
+order_date: 2025-01-01
+
+product_id:    apple
+review_text:    Great product.    
+order_date:   2025-01-01
+
+productid: apple
+reviewtext: Great product.
+orderdate: 2025-01-01
+
+product_id: apple review_text: Great product. order_date: 2025-01-01
+
+product_id: Samsung
+review_text: Good product.
+order_date: 2025-01-01
+
+product_id: apple
+review_text: Excellent!
+order_date: 2025-01-01
+
+product_id: apple
+review_text: Great!
+order_date: 2025-01-02
+
+product_id: apple
+review_text: Terrible.
+order_date: 2025-01-01
+
+product_id: apple
+review_text: Worst ever.
+order_date: 2025-01-02
+
+product_id: apple
+review_text: Looking forward to using it.
+order_date: 2026-01-01
