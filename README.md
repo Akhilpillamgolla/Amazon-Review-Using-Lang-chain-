@@ -28,7 +28,7 @@ This project uses Large Language Models (LLMs) to analyse customer reviews and o
 **Input**: Order data in text format  
 **Task**: Count entries with year = 2024  
 **Output**:  
-"Total orders in 2024: 28"
+"Total orders: 28"
 
 ---
 
